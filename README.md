@@ -101,6 +101,10 @@ docker compose -f compose.ghcr.yml up -d
 
 To build the current source locally instead, run `docker compose up --build -d`.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/LinkSift/)
+
 ## Development
 
 The local launcher is for contributors and requires Python 3.12, yt-dlp, and ffmpeg:
